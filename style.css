@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+canvas {
+  z-index: 100;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  width: 800;
+  height: 600;
+  text-align: center;
+  
+}
+video{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
